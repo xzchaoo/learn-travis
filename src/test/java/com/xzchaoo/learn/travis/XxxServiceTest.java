@@ -12,5 +12,6 @@ public class XxxServiceTest {
 	public void testHello() {
 		XxxService s = new XxxService();
 		assertEquals("hello world", s.hello("world"));
+		//强制提交
 	}
 }
